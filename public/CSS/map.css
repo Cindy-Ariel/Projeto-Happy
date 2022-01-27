@@ -1,8 +1,9 @@
 .map-container {
-	margin-top: 6.4rem;
-	background: #e6f7fb;
-	border: 1px solid #b3dae2;
+	margin-top: 2rem;
+	background: hsl(190, 88%, 91%);
+	border: 1px solid #afdfe9;
 	border-radius: 2rem;
+	
 }
 #mapid {
 	width: 100%;
@@ -13,11 +14,12 @@
 	text-align: center;
 }
 .map-container footer a {
-	color: #0089a5;
+	color: hsl(190, 100%, 32%);
 	text-decoration: none;
+	font-weight: 700;
 }
 
 .map-container .leaflet-container {
-	border-bottom: 1px solid #dde3f0;
+	border-bottom: 1px solid #f5f8fa;
 	border-radius: 2rem;
 }
