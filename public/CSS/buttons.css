@@ -23,9 +23,9 @@
 	grid-template-columns:1fr 1fr;
 }
 .button-select button.active{
-	background: #edfff6;
-	border: 1px solid #a1e9c5;
-	color: #37c77f
+	background: #caf0fc;
+	border: 1px solid #036988;
+	color: #37a5c7
 }
 .button-select button{
 	height: 6.4rem;
