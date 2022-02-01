@@ -1,0 +1,25 @@
+{
+  "name": "projeto-happy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cindy-Ariel/Projeto-Happy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cindy-Ariel/Projeto-Happy/issues"
+  },
+  "homepage": "https://github.com/Cindy-Ariel/Projeto-Happy#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "hbs": "^4.2.0",
+    "nodemon": "^2.0.15"
+  }
+}
